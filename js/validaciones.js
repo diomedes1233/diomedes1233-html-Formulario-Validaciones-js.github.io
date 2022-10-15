@@ -44,15 +44,15 @@ const mensajesDeError = {
         patternMismatch: "El formato requerido es xxxxxxxxxx 10 números"
     },
     direccion: {
-        valueMissing: "El campo numero no puede estar vacio",
+        valueMissing: "El campo dirección no puede estar vacio",
         patternMismatch: "La direccion debe tever entre 10 a 40 caracteres"
     },
     ciudad: {
-        valueMissing: "El campo numero no puede estar vacio",
+        valueMissing: "El campo ciudad no puede estar vacio",
         patternMismatch: "La ciudad debe tever entre 10 a 40 caracteres"
     },
     estado: {
-        valueMissing: "El campo numero no puede estar vacio",
+        valueMissing: "El campo estado no puede estar vacio",
         patternMismatch: "El estado debe tever entre 10 a 40 caracteres"
     },
 
